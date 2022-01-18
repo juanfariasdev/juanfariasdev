@@ -1,6 +1,9 @@
-## Olá, sou o Juan Pablo Farias e AMO programação💘
+## Olá, sou o Juan Pablo Farias e AMO programação :cupid:
 
-🔨Hoje sou Coordenador de Desenvolvimento e Desenvolvedor nas seguintes empresas:
+:heart: Sou APAIXONADO pelo que faço e não ligo de ficar até altas horas estudando e/ou ajudando outras pessoas.
+
+
+:hammer: Atualmente trabalho com desenvolvimento de sites institucionais, e-commerce e plataformas para bigdata e sou Coordenador de Desenvolvimento nas seguintes empresas:
 
 ### Imédia Comunicação
 https://www.imediacomunicacao.com.br
@@ -57,3 +60,6 @@ https://www.b2bfull.com.br
     </td>
   </tr>
 </table>
+                                                                                                                                                     
+                                                                                                                                                     
+Meu Git está sendo reformulado e não tem 10% dos meus projetos ;-;
