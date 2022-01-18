@@ -1,8 +1,11 @@
-### Olá, sou o Juan Pablo Farias e AMO programação💘
+## Olá, sou o Juan Pablo Farias e AMO programação💘
 
-🔨Hoje sou coordenador de Desenvolvimento das seguintes empresas: 
+🔨Hoje sou Coordenador de Desenvolvimento e Desenvolvedor nas seguintes empresas: 
 
+### Imédia Comunicação
 https://www.imediacomunicacao.com.br
+
+#### Tecnologias/Linguagens utilizadas
 
 <div align="left">
   <img align="center" alt="Juan Pablo Farias - Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
@@ -12,9 +15,12 @@ https://www.imediacomunicacao.com.br
   <img align="center" alt="Juan Pablo Farias - Javascript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Juan Pablo Farias - PHP" height="30" width="0" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
 </div>
-<br>
 
+
+### B2BFull
 https://www.b2bfull.com.br
+
+#### Tecnologias/Linguagens utilizadas
 
 <div align="left">
   <img align="center" alt="Juan Pablo Farias - React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
