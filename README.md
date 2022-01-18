@@ -37,8 +37,13 @@ https://www.b2bfull.com.br
 </div>
 <br>
 
-<div align="justify">
-  <a href="https://github.com/juanfariasdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanfariasdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanfariasdev&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <td valign="top" style="padding: 0"><a href="https://github.com/juanfariasdev"><img height="200" src="https://github-readme-stats.vercel.app/api?username=juanfariasdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></a>
+    </td>
+    <td valign="top" style="padding: 0">
+      <a href="https://github.com/juanfariasdev">
+        <img height="200"" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanfariasdev&layout=compact&langs_count=7&theme=dark"/>
+                                                                                                                                                     </a></td>
+  </tr>
+</table>
