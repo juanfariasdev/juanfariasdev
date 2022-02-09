@@ -55,7 +55,7 @@ https://www.b2bfull.com.br
     </td>
     <td valign="top" style="padding: 0">
       <a href="https://github.com/juanfariasdev">
-        <img height="200"" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanfariasdev&layout=compact&langs_count=7&theme=dark">
+        <img height="200"" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanfariasdev&layout=compact&langs_count=7&theme=dark&count_private=true">
       </a>
     </td>
   </tr>
